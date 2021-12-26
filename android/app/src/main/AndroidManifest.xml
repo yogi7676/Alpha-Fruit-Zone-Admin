@@ -3,8 +3,8 @@
 
     
    <application
-        android:label="Alpha Fruit Zone"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Alpha Zone Admin"
+        android:icon="@drawable/icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
